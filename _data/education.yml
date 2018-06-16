@@ -1,10 +1,12 @@
 # Degree
-- degree: Master of Science & Enginnering, Computer Information Science
+- degree: Master of Science, Computer Information Science
   uni: University of Pennsylvinia
   year: 2018 &mdash; 2020
+  awards:
+    - award: xxxxxx
 
 - degree: Bachelor of Science, Computer Science
   uni: Rensselaer Polytechnic Institute
   year: 2015 &mdash; 2018
   awards:
-    - award: Summa Cumme Laude graduate
+    - award: xxxxxxx
